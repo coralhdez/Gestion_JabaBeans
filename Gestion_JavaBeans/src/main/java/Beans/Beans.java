@@ -35,7 +35,7 @@ public class Beans implements Serializable {
         this.altura = altura;
     }
   
-   public int getArea(int base, int altura){
+   public int getArea(){
        
        return base * altura;
    }
